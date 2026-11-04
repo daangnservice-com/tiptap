@@ -42,7 +42,7 @@
     "build": "vp pack"
   },
   "dependencies": {
-    "re2js": "^2.8.6"
+    "re2js": "^2.8.7"
   },
   "devDependencies": {
     "@tiptap/core": "workspace:^",
